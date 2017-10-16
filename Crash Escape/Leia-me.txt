@@ -1,0 +1,2 @@
+Para o funcionamento do jogo precisa instalar o módulo pygame, que não é nativo
+do python.
